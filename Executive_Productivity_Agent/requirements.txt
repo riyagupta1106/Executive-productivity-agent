@@ -1,0 +1,27 @@
+Task,Owner,Status,DueDate,Source
+Send updated vendor list,Arjun,Open,2026-09-23,Meeting+Email
+Review campaign deck,Arjun,Open,2026-09-24,Meeting+Email
+Expense variance report,Divya,Waiting,2026-09-23,Meeting+Email
+Meridian Logistics call,Arjun,Open,2026-09-23,Calendar+Email
+Mumbai lease renewal,Unknown,Risk,2026-09-25,Meeting+Email 
+
+
+# Executive Productivity Agent
+
+AI-powered executive workflow dashboard built with Streamlit.
+
+## Features
+- Daily Executive Brief
+- Task Tracking
+- Communication Threads
+- Email Dashboard
+- Meeting Management
+- Calendar View
+- People Directory
+- Voice Notes
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
